@@ -3,7 +3,7 @@
  * @Author: Weidows
  * @Date: 2021-01-03 01:36:18
  * @LastEditors: Weidows
- * @LastEditTime: 2021-06-26 02:11:31
+ * @LastEditTime: 2021-06-26 02:19:39
  * @FilePath: \VScode-Extension-Tamplate\README.md
  * @Description:
  * @!: *********************************************************************
@@ -21,7 +21,7 @@ vscode 插件开发模板
 [vscode-shield]: https://img.shields.io/visual-studio-marketplace/r/Weidows.theme-weidows?logo=visual-studio-code
 [vscode-url]: https://marketplace.visualstudio.com/items?itemName=Weidows.theme-weidows
 
-> [![Github Repo][github-shield]][github-url] > [![VSCode Plugin][vscode-shield]][vscode-url]
+> [![Github Repo][github-shield]][github-url] [![VSCode Plugin][vscode-shield]][vscode-url]
 > For more information, [click here][github-url]
 
 ---
