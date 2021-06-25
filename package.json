@@ -1,0 +1,31 @@
+{
+  "name": "插件名称(不能有大写字母或汉字,不能与现有的重复)",
+  "displayName": "显示名称(可重复)",
+  "description": "插件描述性文字",
+  "version": "版本号",
+  "publisher": "Weidows",
+  "license": "MIT",
+  "homepage": "https://github.com/Weidows-projects/",
+  "repository": {
+    "url": "https://github.com/Weidows-projects/",
+    "type": "git"
+  },
+  "engines": {
+    "vscode": "^1.52.1"
+  },
+  "categories": [
+    "插件分类,可根据json报错信息填"
+  ],
+  "keywords": [
+    "Weidows"
+  ],
+  "contributes": {},
+  "icon": "icon.png",
+  "dependencies": {
+    "vsce": "1.88.0"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  }
+}
